@@ -1,1 +1,39 @@
 /* add CSS class and element and selectors here */
+
+h1 {color:#D295BF;}
+.exsample {color:blue;font-size:20px;}
+body {
+      background-color:#BFFFC6;
+      font-size: 150%;
+    }
+    .myClass {
+      background-color: gray;
+      color: blue
+    }
+    
+  h3 {
+      font-size:300%;
+    }
+.border 
+  {border-style: dotted;
+    border-width: medium;
+    border-color: black;
+  } 
+  h2 
+  {
+    color:#D295BF;
+    
+  }
+ .second_headder
+ {
+   color:#20755A;
+ }
+  
+  
+  
+  
+  
+  
+  
+  
+  
